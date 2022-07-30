@@ -1,1 +1,6 @@
-mylogs.log
+*.log
+
+
+// /mylogs.log == ignore only the file in the same location where .ignore file is located
+// *.log == ignore all the files with extension '.log'
+// Logs/ == igone the folder, where 'Logs' is the folder name
